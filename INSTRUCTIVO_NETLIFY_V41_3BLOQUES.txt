@@ -1,0 +1,51 @@
+
+INSTRUCTIVO NETLIFY - EPK QUIKE SÁNCHEZ DJ V41 FINAL 3 BLOQUES
+Fecha: 2026-09-22 18:42
+
+VERSIÓN: V41 FINAL con PRESS KIT 3 bloques (fotos izq, logos centro, PDFs der)
+Video: https://youtu.be/YYUvapYwQDg
+
+QUE VAS A SUBIR:
+- Carpeta Quike_Sanchez_EPK_V41_FINAL_3BLOQUES o ZIP (ver abajo)
+- Contiene index.html + PDFs + One-Sheets
+
+PASO 1: NETLIFY DROP
+https://app.netlify.com/drop
+Arrastra la carpeta completa o el ZIP. Gratis.
+
+PASO 2: OBTÉN LINK
+Ej: https://elegant-biscuit-123456.netlify.app
+Estará online en 20 segundos.
+
+PASO 3: CAMBIA NOMBRE
+Site settings > Change site name > quike-sanchez-dj-epk-2026
+Queda: https://quike-sanchez-dj-epk-2026.netlify.app
+
+PASO 4: VERIFICA V41 3 BLOQUES
+[ ] Entra en inglés por defecto, toggle ES/EN funciona
+[ ] Video carga: https://youtu.be/YYUvapYwQDg
+[ ] PRESS KIT tiene 3 bloques: fotos izq, logos centro, PDFs der
+[ ] No hay sección separada Download Full EPK (eliminada)
+[ ] En bloque derecho hay 3 botones: BILINGÜE dorado + ES + EN
+[ ] PDFs descargan correctamente
+[ ] Aforismo dorado: "La salsa no es nostalgia. Es memoria que baila..."
+[ ] Quote: "Cada canción tiene calle, tiene historia."
+[ ] Contacto clicable: +57 310 809 6777 y QuikeSanchezDJ@gmail.com
+
+PASO 5: ACTUALIZAR LUEGO
+Deploys > arrastra nueva carpeta > mismo link se mantiene
+
+PASO 6: USO PARA FESTIVALES
+Adjunta: PDF bilingüe + One-sheet Feed JPG
+Pega link Netlify + link video YYUvapYwQDg
+Usa Email_Template_Festivales_ES.txt / EN
+
+ARCHIVOS:
+- index.html (V41 3 bloques)
+- Quike_Sanchez_EPK_Bilingue_2026_FINAL.pdf
+- Quike_Sanchez_EPK_Espanol_2026_FINAL.pdf
+- Quike_Sanchez_EPK_English_2026_FINAL.pdf
+- One-Sheets JPG y PDF
+
+NOTA: Esta versión V41 es limpia sin enlaces extra en residencias, como pediste al regresar al V41.
+Si quieres añadir los 6 enlaces simples de residencias luego, lo hacemos sobre esta base.

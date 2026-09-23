@@ -1,0 +1,150 @@
+
+# INSTRUCTIVO NETLIFY - EPK QUIKE SÁNCHEZ DJ 2026
+# Versión Final Revisada con PDF Bilingüe Integrado
+
+================================================================
+QUÉ VAS A SUBIR
+================================================================
+Ya tienes el pack listo:
+- Quike_Sanchez_EPK_Netlify_Pack_2026_FINAL.zip (13.5 MB)
+  Contiene:
+  - index.html (EPK web final con video https://youtu.be/YYUvapYwQDg y botón de descarga PDF)
+  - Quike_Sanchez_EPK_Bilingue_2026_FINAL.pdf (botón dorado principal)
+  - Quike_Sanchez_EPK_Espanol_2026_FINAL.pdf
+  - Quike_Sanchez_EPK_English_2026_FINAL.pdf
+  - One-Sheets JPG Feed 1080x1350 y Story 1080x1920 ES/EN
+  - One-Sheets PDF 1 página
+  - README.txt
+
+Ubicación del ZIP:
+- En tu carpeta de descargas de Meta AI: Quike_Sanchez_EPK_Netlify_Pack_2026_FINAL.zip
+
+================================================================
+PASO 1 - IR A NETLIFY DROP (sin cuenta necesaria)
+================================================================
+1. Abre en tu navegador: https://app.netlify.com/drop
+2. Si no tienes cuenta, puedes arrastrar igual y luego Netlify te pedirá crear cuenta gratis (con email o GitHub). Es gratis para EPKs.
+
+================================================================
+PASO 2 - ARRASTRAR EL ZIP
+================================================================
+Opción A (más fácil):
+- Arrastra directamente el archivo ZIP a la zona que dice "Drag and drop your site output folder here"
+
+Opción B (si quieres ver los archivos):
+- Descomprime el ZIP en tu computador
+- Arrastra la CARPETA descomprimida completa a Netlify Drop
+
+Espera 10-30 segundos. Netlify sube todo y te da un link tipo:
+https://elegant-biscuit-123456.netlify.app
+
+¡Ya está online!
+
+================================================================
+PASO 3 - CAMBIAR NOMBRE DEL LINK (para que se vea pro)
+================================================================
+1. En Netlify, después de subir, haz clic en "Site settings" o "Domain settings"
+2. Busca "Change site name" o "Edit site name"
+3. Pon algo como:
+   quike-sanchez-dj-epk-2026
+   o
+   quikesanchezdj
+   o
+   mundosalsero-epk
+
+Tu link quedará:
+https://quike-sanchez-dj-epk-2026.netlify.app
+
+Este es el link que pondrás en tus emails a festivales.
+
+================================================================
+PASO 4 - VERIFICAR QUE TODO FUNCIONA
+================================================================
+Abre tu nuevo link y verifica:
+- [ ] Entra en inglés por defecto
+- [ ] Toggle ES/EN funciona
+- [ ] Video carga: https://youtu.be/YYUvapYwQDg (embed)
+- [ ] Header tiene PRESS KIT entre LIVE y CONTACTO/BOOKING
+- [ ] Aforismo dorado: "La salsa no es nostalgia. Es memoria que baila. Cada disco guarda una calle, un solar, una noche."
+- [ ] Quote: "Cada canción tiene calle, tiene historia." / EN "Every song has a street, has a story."
+- [ ] En sección PRESS KIT hay bloque dorado "Descargar EPK Completo / Download Full EPK"
+- [ ] Botón dorado BILINGÜE descarga el PDF bilingüe
+- [ ] Botones secundarios ES y EN descargan sus PDFs
+- [ ] Contacto: mail y WhatsApp clicables
+
+Si un PDF no descarga, asegúrate que subiste el ZIP completo, no solo el index.html.
+
+================================================================
+PASO 5 - ACTUALIZAR EN EL FUTURO (cuando cambies video o datos)
+================================================================
+1. Vuelve a https://app.netlify.com/sites
+2. Entra a tu site
+3. Ve a pestaña "Deploys"
+4. Arrastra la nueva versión de la carpeta o nuevo ZIP en la zona "Drag and drop your site output folder here"
+5. Netlify actualiza automáticamente manteniendo el mismo link. No necesitas cambiar el link en tus emails.
+
+================================================================
+PASO 6 - DOMINIO PERSONALIZADO (opcional)
+================================================================
+Si tienes mundosalsero.com o quikesanchezdj.com:
+1. En Netlify: Domain settings > Add custom domain
+2. Pon tu dominio: epk.mundosalsero.com o quikesanchezdj.com/epk
+3. Netlify te da instrucciones DNS para configurar en tu proveedor de dominio
+4. Si no tienes dominio, el link netlify.app es totalmente profesional para festivales.
+
+================================================================
+PASO 7 - CÓMO USARLO PARA BOOKING
+================================================================
+En tus emails a festivales usa esta estructura:
+
+Asunto: Quike Sánchez DJ - Salsa & Boogaloo Selector (Vinilos) | EPK 2026
+
+Cuerpo: (usa plantilla Email_Template_Festivales_ES.txt)
+
+Links a incluir:
+- Web EPK: https://quike-sanchez-dj-epk-2026.netlify.app (tu link real)
+- Video: https://youtu.be/YYUvapYwQDg
+- Adjuntos: PDF bilingüe + One-sheet JPG
+
+En WhatsApp:
+- Usa plantilla WhatsApp_Template_ES.txt
+- Envía el One-sheet JPG Feed como imagen
+- Pega el link Netlify
+
+================================================================
+ERRORES COMUNES
+================================================================
+- "PDF no descarga": Subiste solo index.html. Debes subir TODA la carpeta con PDFs.
+- "Video no carga": Verifica que el link sea https://youtu.be/YYUvapYwQDg y no http
+- "Link feo": Cambia el site name en Site settings (paso 3)
+- "No veo cambios": Limpia caché del navegador (Ctrl+Shift+R)
+
+================================================================
+CHECKLIST FINAL ANTES DE ENVIAR A FESTIVALES
+================================================================
+[ ] ZIP subido a Netlify Drop
+[ ] Link personalizado cambiado (quike-sanchez-dj-epk-2026.netlify.app)
+[ ] Video nuevo probado
+[ ] PDF bilingüe descarga desde botón dorado
+[ ] Toggle ES/EN probado
+[ ] Contacto WhatsApp +57 310 809 6777 clicable
+[ ] Email QuikeSanchezDJ@gmail.com clicable
+[ ] Redes @quikesanchezdj / @mundosalsero linkadas
+[ ] One-sheets listos para adjuntar
+
+================================================================
+CONTACTO SOPORTE
+================================================================
+Si necesitas actualizar algo:
+- Nuevo video: me dices el link YouTube y te actualizo el EPK
+- Nuevos festivales: me dices y agrego
+- Cambio de bio: me dices y regenero PDFs y web
+
+Todo el pack final está guardado como:
+- EPK-FINAL-CON-PDF-INTEGRADO-2026.html (web con PDF)
+- Quike_Sanchez_EPK_Netlify_Pack_2026_FINAL.zip (todo para Netlify)
+
+¡Listo para festivales 2026!
+
+Salsa es memoria que baila.
+Quike Sánchez DJ - 2026
